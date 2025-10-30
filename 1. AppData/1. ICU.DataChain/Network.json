@@ -1,0 +1,17 @@
+[
+  {
+    "rpcs": [
+      "https://rpc.hoodi.ethpandaops.io"
+    ],
+    "smartContractAddress": "0xe501975959749B0A15F48C7C37DF786249348a82",
+    "value": 1
+  },
+  {
+    "rpcs": [
+      "https://1rpc.io/sepolia",
+      "https://ethereum-sepolia-rpc.publicnode.com"
+    ],
+    "smartContractAddress": "0x356fe334534697676968A80C489cfFe7b883EAcD",
+    "value": 2
+  }
+]
